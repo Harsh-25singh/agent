@@ -23,3 +23,8 @@ Build an AI assistant that can monitor and diagnose Kubernetes clusters using na
 ## Day 1 Progress
 - Setup completed
 - GitHub connected
+
+-Day 1: Created Kubernetes failure scenario (ErrImagePull)
+
+Day 2: Deployed app and created failure scenario
+-Built Python CLI for Kubernetes interaction
