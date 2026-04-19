@@ -28,3 +28,4 @@ Build an AI assistant that can monitor and diagnose Kubernetes clusters using na
 
 Day 2: Deployed app and created failure scenario
 -Built Python CLI for Kubernetes interaction
+-Fixed ollama dependency and ran AI assistant"
